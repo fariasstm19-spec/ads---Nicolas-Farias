@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(176, 176, 190);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    color:blueviolet;
+}
+
+h1 {
+    color: rgb(25, 25, 68);
+    text-align: center;
+}
+
+h2 {
+    background-color: rgb(31, 12, 66); 
+    color:antiquewhite;
+}
+
+p {
+    font-size: 24px;
+    color: blueviolet;
+
+}
+
+ul {
+    padding: 10px;
+}
+
+footer {
+    background-color: rgb(28, 17, 68);
+    color: white;
+    text-align: center;
+    font-size: 10px;
+    margin-top: 30px;
+    padding: 10px;
+}
